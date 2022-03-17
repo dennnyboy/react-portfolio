@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    position:relative;
+    bottom: 0;
+    height: 0;
+    width: 100%;
+    margin-top: 20%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+}
+
+
